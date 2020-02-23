@@ -71,4 +71,4 @@ DOM API 또는`Symbol` 또는 `Iterable`과 같은 내장 JS 런타임 생성자
 "foo".padStart(4);
 ```
 
-작성중...
+`작성중...`
